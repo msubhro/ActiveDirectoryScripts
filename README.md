@@ -1,5 +1,5 @@
 # ActiveDirectoryScripts
-This Repository contains some useful PowerShell scripts related to Active Directory.
+This Repository contains some useful PowerShell scripts related to Active Directory and DNS.
 
 These scripts were originally published in PowerShell Gallery, and now I have copied these scripts to Github.
 
