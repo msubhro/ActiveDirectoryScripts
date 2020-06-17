@@ -4,7 +4,7 @@ For this script to work, the DNS records should have corresponding computer acco
 
 You have to carefully put the value of $path, which is the path of the DNS Zone. In this script, it is assumed that example.org is an AD Integrated zone which is replicated Domain Wide. Please make sure $path value is opening in ADSI EDIT.
 
-This script has been developed and tested in PowerShell 4.0
+This script has been developed and tested in PowerShell 4.0.
 
 Please test it before use.
 
