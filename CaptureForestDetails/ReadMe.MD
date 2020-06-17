@@ -16,6 +16,6 @@ Group Policies.
 
 DNS Zones.
 
-The script has been prepared and tested in Powershell 4.0. So when you run this script, please make sure that the Powershell version is 4.0 or above.
+The script has been prepared and tested in Powershell 4.0. So when you run this script, please make sure that the Powershell version is 4.0 or higer.
 
 While this script has been tested multiple times, I recommend that you test it in a test environment before using it in a production environment.
