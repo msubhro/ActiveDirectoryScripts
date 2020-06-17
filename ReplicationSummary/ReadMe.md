@@ -1,6 +1,6 @@
 This script creates a folder with current date and stores the Replication summary report for the entire forest. It can also email the report.
 
-Note: To get FULL replication report for all NTDS partitions, please use my another script: Get Replication Report for Entire Forest (for all NTDS partitions)
+Note: To get FULL replication report for all NTDS partitions, please use my another script under the "Full Replication Report" folder in this repository.
 
  
 You can schedule this script through Windows Task Scheduler. Program / Script: Path of Powershell.exe  Argument: Script Path)
