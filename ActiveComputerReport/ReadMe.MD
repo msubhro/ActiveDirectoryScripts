@@ -12,6 +12,6 @@ You can also change the search criteria , by changing the value of "$DaysInactiv
 Ex: if the value is 30, the result will exclude those computers which did not log on within last 30 days.
 
 
-Use Powershell 4.0 or above.
+Use Powershell 4.0 or higer version.
 
 Test before you use, and use at your own risk.
