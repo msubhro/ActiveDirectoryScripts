@@ -12,7 +12,7 @@ When you will run the list, you will get below four options:
 
 
  
-The script has been developed and tested in Powershell 4.0.
+This script has been developed and tested in Powershell 4.0.
 
 The script is tested. But please test it before Using in Production Environment.
 
