@@ -5,6 +5,8 @@ These scripts were originally published on Microsoft TechNet Gallery, and now I 
 
 Use Powershell 4.0 or higer version.
 
-Test before you use, and use at your own risk.
+Test before you execute these scripts in a critical environment.
+
+Use at your own risk.
 
 The system where you will execute these scripts must have PowerShell Active Directory module installed.
